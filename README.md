@@ -1,7 +1,7 @@
-<h1>Hi, I'm Dmitrii! :sailboat: </h1>
+<h1>Hi, I'm Dima! :sailboat: </h1>
 
 <p>
-  From test tubes to code: I've navigated a thrilling career journey, <br> 
+  From flasks to code: I've navigated a thrilling career journey, <br> 
   transforming from an analytical chemist into an innovative leader in Computer Vision. <br> 
   Driven by a passion for science and belief in open-source solutions, I leverage PhD in engineering, <br> 
   Python and PyTorch to solve complex challenges across industries. A Linux fan at heart, I feel a little uncomfortable without my computer.
@@ -27,6 +27,9 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/docker/2A9019" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/ansible/2A9019" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nginx/2A9019" />
+
+  <img height="32" width="32" src="https://cdn.simpleicons.org/easyeda/2A9019"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/arduino/2A9019"/>
 </div>
 
 <!--### My Stats
@@ -44,8 +47,9 @@
 * <img height="18" width="32" src="https://cdn.simpleicons.org/orcid/2A9019" /> [0000-0002-5340-2666](https://orcid.org/0000-0002-5340-2666).
 * <img height="18" width="32" src="https://cdn.simpleicons.org/scopus/2A9019" /> [37073674700](https://www.scopus.com/authid/detail.uri?authorId=37073674700).
 
-Disclamers:
-* Most of my projects were originally crated and maintained in GitLab local instance (under VPN and NDA).
+
+### Disclaimers:
+* Most of my projects were originally created and maintained in [GitLab local instance](https://gitlab.lydata.duckdns.org/DimYun) (under NDA).
 
 ### Contact me
 
