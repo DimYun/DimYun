@@ -10,24 +10,32 @@
 
 ### My Stack
 
+Coding: 
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/python/2A9019" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/2A9019" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/pytest/2A9019"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/opencv/2A9019" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/linux/2A9019"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/2A9019"/>
-  
-  <img height="32" width="32" src="https://cdn.simpleicons.org/git/2A9019"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/docker/2A9019"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/2A9019" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/dvc/2A9019" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/pytest/2A9019"/>
+</div>
 
-  <img height="32" width="32" src="https://cdn.simpleicons.org/git/2A9019" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/docker/2A9019" />
+<br>
+MLOps:
+<div>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/2A9019" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git/2A9019"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/githubactions/2A9019"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/docker/2A9019"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/dvc/2A9019" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/grafana/2A9019"/>  
   <img height="32" width="32" src="https://cdn.simpleicons.org/ansible/2A9019" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nginx/2A9019" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/2A9019"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux/2A9019"/>
+</div>
 
+<br>
+Hardware:
+<div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/easyeda/2A9019"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/arduino/2A9019"/>
 </div>
@@ -38,7 +46,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimyun&layout=compact&theme=gotham)
 -->
-<br>
 
 ### My Stats
 
