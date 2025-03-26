@@ -51,10 +51,12 @@ Hardware:
 ### My Stats
 
 * My work project with Car Plate OCR, include [NN segmentation model](https://github.com/DimYun/car-plate-segm_model), [OCR model](https://github.com/DimYun/car-plate-ocr_model), [API service](https://github.com/DimYun/car-plate_service) and [telegram bot example](https://github.com/DimYun/car-plate_tg-bot).   
-* My train project for Amazon forests satellite image [multilabel classification](https://github.com/DimYun/amazon-forests-satellite-class_model) and [API service](https://github.com/DimYun/amazon-forests-satellite-class_service).
+* Train project example for Amazon forests satellite image [multilabel classification](https://github.com/DimYun/amazon-forests-satellite-class_model) and [API service](https://github.com/DimYun/amazon-forests-satellite-class_service).
+* [Test assignment](https://github.com/DimYun/bytez_test) to create API service for scientific papers analysis (with RAG + LLM approach).
 * <img height="18" width="32" src="https://cdn.simpleicons.org/orcid/2A9019" /> [0000-0002-5340-2666](https://orcid.org/0000-0002-5340-2666).
 * <img height="18" width="32" src="https://cdn.simpleicons.org/scopus/2A9019" /> [37073674700](https://www.scopus.com/authid/detail.uri?authorId=37073674700).
-* [Web of Science ID: AAG-5290-2020](https://www.webofscience.com/wos/author/record/AAG-5290-2020)
+* [Web of Science ID: AAG-5290-2020](https://www.webofscience.com/wos/author/record/AAG-5290-2020).
+* [LinkedIn profile](www.linkedin.com/in/dmitrii-iunovidov).
 
 
 ### Disclaimers:
