@@ -17,9 +17,13 @@ Coding:
   <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/2A9019" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/opencv/2A9019" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/pytest/2A9019"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/2A9019" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/geopandas/2A9019" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/numpy/2A9019" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/2A9019" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/qt/2A9019" />
 </div>
 
-<br>
 MLOps:
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/2A9019" />
@@ -30,11 +34,11 @@ MLOps:
   <img height="32" width="32" src="https://cdn.simpleicons.org/grafana/2A9019"/>  
   <img height="32" width="32" src="https://cdn.simpleicons.org/ansible/2A9019" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nginx/2A9019" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mqtt/2A9019" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/2A9019"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/linux/2A9019"/>
 </div>
 
-<br>
 Hardware:
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/easyeda/2A9019"/>
