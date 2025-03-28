@@ -64,7 +64,7 @@ Hardware:
 
 
 ### Disclaimers:
-* Most of my projects were originally created and maintained in [GitLab local instance](https://gitlab.lydata.duckdns.org/DimYun) (under NDA).
+* Most of my projects were originally created and maintained in [GitLab local instance](https://gitlab.lydata.duckdns.org/DimYun).
 
 ### Contact me
 
