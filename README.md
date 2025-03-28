@@ -68,8 +68,10 @@ Hardware:
 
 ### Contact me
 
+<a href='https://www.linkedin.com/in/dmitrii-iunovidov'><img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 <a href='https://t.me/dm_dimyun'><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/></a>
 <a href='mailto: dm.yunovidov@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
+
 
 <!--
 **DimYun/DimYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
