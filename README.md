@@ -12,36 +12,17 @@
 
 **Coding:**
 <p align="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/python/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/opencv/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/pytest/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/geopandas/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/numpy/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/qt/2A9019" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/opencv/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/pytest/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/pandas/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/geopandas/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/numpy/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/qt/2A9019" />
 </p>
 
 **MLOps:**
 <p align="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/git/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/githubactions/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/docker/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/dvc/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/grafana/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/ansible/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nginx/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/mqtt/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/linux/2A9019" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/git/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/githubactions/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/docker/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/dvc/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/grafana/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/ansible/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/nginx/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/mqtt/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/linux/2A9019" />
 </p>
 
 **Hardware:**
 <p align="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/easyeda/2A9019" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/arduino/2A9019" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/easyeda/2A9019" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/arduino/2A9019" />
 </p>
 
 ### My Stats
@@ -59,7 +40,5 @@
 ### Contact me
 
 <p align="left">
-  <a href='https://www.linkedin.com/in/dmitrii-iunovidov'><img src='https://img.shields.io/badge/LinkedIn-0a66c2.svg?style=for-the-badge&logo=linkedin' alt='LinkedIn'/></a>
-  <a href='https://t.me/dm_dimyun'><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram'/></a>
-  <a href='mailto:dm.yunovidov@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail'/></a>
+  <a href='https://www.linkedin.com/in/dmitrii-iunovidov'><img src='https://img.shields.io/badge/LinkedIn-0a66c2.svg?style=for-the-badge&logo=linkedin' alt='LinkedIn'/></a>&nbsp;<a href='https://t.me/dm_dimyun'><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram'/></a>&nbsp;<a href='mailto:dm.yunovidov@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail'/></a>
 </p>
